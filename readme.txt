@@ -1,5 +1,5 @@
 === Flexible Blogtitle ===
-Contributors: thaikolja, evader
+Contributors: thaikolja
 Tags: flexible blogtitle, flexible, blogtitle, blog title, site title, custom blog title, custom site title
 Tested up to: 3.8.1
 Stable tag: 0.1

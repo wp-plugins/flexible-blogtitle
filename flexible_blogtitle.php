@@ -12,12 +12,6 @@
 	 */
 
 	/**
-	 * To do:
-	 *
-	 * - jQuery bulk edit
-	 */
-
-	/**
 	 * Stop script when the file is called directly.
 	 */
 	if(!function_exists("add_action")) {

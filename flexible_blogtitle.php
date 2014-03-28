@@ -652,7 +652,7 @@
 			</div>
 			<p>
 				<br />
-				<small><?php _e('Do you speak more than one language?<br /><a href="https://www.transifex.com/projects/p/wordpress-plugin-flexible-blogtitle/" title="Translate Flexible Blogtitle on Transifex">Help translating Flexible Blogtitle</a> and make it easier for other users to use.', "flexible_blogtitle"); ?></small>
+				<small><?php _e('Do you speak more than one language?<br /><a href="https://www.transifex.com/projects/p/plugin-flexible-blogtitle/" title="Translate Flexible Blogtitle on Transifex">Help translating Flexible Blogtitle</a> and make it easier for other users to use.', "flexible_blogtitle"); ?></small>
 			</p>
 		</form>
 		</div>
